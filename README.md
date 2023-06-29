@@ -1,1 +1,1 @@
-# Book-Library
+This is a Web API written in ASP.Net which is used to manage book library. Authors can be created and assigned to each to book or a collection of books. The Swagger UI can be used to test the functionality of the Web API. The Web API is written using .Net 6.
