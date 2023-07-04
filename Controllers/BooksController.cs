@@ -1,8 +1,10 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using Book_Library.Data;
+using Book_Library.Models;
 
-namespace Book_Library.Models
+namespace Book_Library.Controllers
 {
 [Authorize]
 [Route("[controller]")]
